@@ -1,0 +1,25 @@
+.single-writer{
+    background-color:#395067;
+    color: #dff9fb;
+    /* height: 400px; */
+    width: 230px;
+    text-align: center;
+    padding: 60px 20px;
+    border-radius: 15px;
+    font-size: 17px;
+}
+
+.single-writer img{
+    width: 100px;
+    height: 90px;
+    border-radius: 50px;
+}
+.btn{
+    background-color: #ecf0f1;
+    color: #395067;
+    padding: 10px 22px;
+    border-radius: 10px;
+    border: 1px solid lightsteelblue;
+    font-size: 14px;
+    font-weight: 600;
+}

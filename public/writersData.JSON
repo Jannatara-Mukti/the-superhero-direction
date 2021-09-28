@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "name": "Sukanta Bhattacharya",
+        "img": "https://www.amarbooks.org/thumbs/1490405057.jpg",
+        "born": "15 August 1926",
+        "died": "13 May 1947",
+        "nationality": "British India",
+        "totalBooks": 20
+    },
+    {
+        "id": "2",
+        "name": "Rabindranath Tagore",
+        "img": "https://www.amarbooks.org/thumbs/1464923111.jpg",
+        "born": "7 May 1861",
+        "died": "7 August 1941",
+        "nationality": "Bengali, India",
+        "totalBooks": 320
+    },
+    {
+        "id": "3",
+        "name": "Ashapurna Devi",
+        "img": "https://www.amarbooks.org/thumbs/1464920684.jpg",
+        "born": "January 8, 1909",
+        "died": "July 13, 1995",
+        "nationality": "Indian",
+        "totalBooks": 160
+    },
+    {
+        "id": "4",
+        "name": "Humayun Ahmed",
+        "img": "https://www.amarbooks.org/thumbs/1464922811.jpg",
+        "born": "November 13, 1948",
+        "died": "July 19, 2012",
+        "nationality": "Bangladeshi",
+        "totalBooks": 340
+    },
+    {
+        "id": "5",
+        "name": "Manik Bandopadhyay",
+        "img": "https://www.amarbooks.org/thumbs/1464922898.jpg",
+        "born": "May 19, 1908",
+        "died": "December 3, 1956",
+        "nationality": "Indian",
+        "totalBooks": 400
+    },
+    {
+        "id": "6",
+        "name": "Zahir Raihan",
+        "img": "https://www.amarbooks.org/thumbs/1464923360.jpg",
+        "born": "August 19, 1935",
+        "died": "January 30, 1972",
+        "nationality": "Bangladeshi",
+        "totalBooks": 170
+    },
+    {
+        "id": "7",
+        "name": "Bibhutibhushan Bandyopadhyay",
+        "img": "https://www.amarbooks.org/thumbs/1464922512.jpg",
+        "born": "September 12, 1894",
+        "died": "November 1, 1950",
+        "nationality": "Indian",
+        "totalBooks": 530
+    },
+    {
+        "id": "8",
+        "name": "Kazi Nazrul Islam",
+        "img": "https://www.amarbooks.org/thumbs/1464922883.jpg",
+        "born": "May 24, 1899",
+        "died": "August 29, 1976",
+        "nationality": "Bangladeshi",
+        "totalBooks": 600
+    },
+    {
+        "id": "9",
+        "name": "Buddhadeb Guha",
+        "img": "https://www.amarbooks.org/thumbs/1464922710.jpg",
+        "born": "June 29, 1936",
+        "died": " August 29, 2021",
+        "nationality": "Indian",
+        "totalBooks": 580
+    }
+]

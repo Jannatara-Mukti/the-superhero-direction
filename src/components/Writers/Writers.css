@@ -1,0 +1,11 @@
+.writers-info{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 30px 100px;
+}
+.writer-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
